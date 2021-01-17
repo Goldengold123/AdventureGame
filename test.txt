@@ -1,0 +1,15 @@
+## Inspiration
+I use Discord very often and I noticed that there were few game bots.
+## What it does
+p!game to play an RPG game.
+## How I built it
+- Python Discord API (discord.py)
+- PyCharm for making the code
+## Challenges I ran into
+My code editor had a monospaced font, whereas Discord had a different font. This led to spacing issues when creating the text that was to be shown, such as the map.
+## Accomplishments that I'm proud of
+Managing to create a simple game in such a short period of time.
+## What I learned
+I learned how to use discord.py more fluently.
+## What's next for Adventure Game
+More clean outputs - considering using embeds, more emojis, etc.
